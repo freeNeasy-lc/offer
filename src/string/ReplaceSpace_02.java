@@ -3,7 +3,7 @@ package string;
     请实现一个函数，将一个字符串中的每个空格替换成“%20”。
     例如，当字符串为We Are Happy.则经过替换之后的字符串为We%20Are%20Happy。
  */
-public class ReplaceSpace {
+public class ReplaceSpace_02 {
     public String replaceSpace1(StringBuffer str){
         //全部替换复杂度O(n*n)
         String string = str.toString();

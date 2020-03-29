@@ -1,8 +1,8 @@
 package string;
 
-public class Test {
+public class Test_02 {
     public static void main(String args[]) {
-        ReplaceSpace res = new ReplaceSpace();
+        ReplaceSpace_02 res = new ReplaceSpace_02();
         String str1 = "asdasdas";
         Boolean bool = res.stringFind(str1);
         System.out.println(bool);

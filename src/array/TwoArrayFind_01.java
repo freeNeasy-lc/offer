@@ -10,8 +10,16 @@ import sun.font.TrueTypeFont;
     请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。
  */
 //你写的这个没有利用到二维数组行列递增顺序排列，复杂度太高
-public class TwoArrayFind {
+public class TwoArrayFind_01 {
     public boolean Find(int target, int[][] array) {
+        /*for (int[] i : array) {
+            for (int j : i) {
+                if (target == j) {
+                    return true;
+                }
+            }
+        }
+        return false;*/
         for (int i = 0; i<array.length; i++) {
             for (int j = 0; j<array[i].length; j++) {
                 if (target == array[i][j]) {
@@ -36,7 +44,8 @@ public class TwoArrayFind {
         for (int i = 0; i < array.length; i++) {
             int start = 0;
             int end = array[i].length-1;
-            while(start < end) {
+            // start <= end 注意目标数字在开头的情况
+            while(start <= end) {
                 int mid = (start + end) / 2;
                 if (target > array[i][mid]) {
                     start = mid + 1;
