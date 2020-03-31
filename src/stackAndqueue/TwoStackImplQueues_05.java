@@ -6,7 +6,7 @@ import java.util.Stack;
 
 //当插入时，直接插入 stack1
 //当弹出时，当 stack2 不为空，弹出 stack2 栈顶元素，如果 stack2 为空，将 stack1 中的全部数逐个出栈入栈 stack2，再弹出 stack2 栈顶元素
-public class TwoStackImplQueues {
+public class TwoStackImplQueues_05 {
     Stack<Integer> stack1 = new Stack<Integer>();
     Stack<Integer> stack2 = new Stack<Integer>();
 
@@ -26,13 +26,13 @@ public class TwoStackImplQueues {
         return stack2.pop();
     }
     public static void main(String[] args) {
-        TwoStackImplQueues twoStackImplQueues = new TwoStackImplQueues();
+        TwoStackImplQueues_05 twoStackImplQueues05 = new TwoStackImplQueues_05();
         int [] array = {1,2,4,5,7,8};
         for (int i = 0; i < array.length; i++) {
-            twoStackImplQueues.push(array[i]);
+            twoStackImplQueues05.push(array[i]);
         }
-        while(twoStackImplQueues.size() > 0) {
-            System.out.println(twoStackImplQueues.pop());
+        while(twoStackImplQueues05.size() > 0) {
+            System.out.println(twoStackImplQueues05.pop());
         }
     }
 }
