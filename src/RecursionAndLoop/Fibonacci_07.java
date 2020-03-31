@@ -38,6 +38,21 @@ public class Fibonacci_07 {
         }
         return end;
     }
+
+    //推荐方式
+    public int Fibonacci1 (int n) {
+        if (n < 2) {
+            return n;
+        }
+
+        int sum = 1;
+        int one = 0;
+        for(int i = 2; i <= n; i++) {
+            sum = sum + one;
+            one = sum - one;
+        }
+        return sum;
+    }
     public static void main(String[] args) {
         Fibonacci_07 Fibonacci_07 = new Fibonacci_07();
         //0 1 1 2 3 5 8
