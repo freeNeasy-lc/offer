@@ -1,4 +1,4 @@
-package FindAndSort;
+package findAndSort;
 
 /*
 题目描述
