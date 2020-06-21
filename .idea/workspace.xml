@@ -2,14 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10655a34-a495-4a30-bbae-d4e6799b4a34" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bitOperate/NumberOf1_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeIntegrity/Power_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ReOrderArray_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalSort/BubbleSort_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalSort/BucketSort_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalSort/CountingSort_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalSort/HeapSort_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalSort/InsertionSort_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalSort/MergeSort_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalSort/QuickSort1_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalSort/QuickSort2_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalSort/RadixSort_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalSort/SelectionSort_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classicalSort/ShellSort_04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindAndSort/minNumberInRotateArray_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findAndSort/minNumberInRotateArray_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecursionAndLoop/Fibonacci_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursionAndLoop/Fibonacci_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecursionAndLoop/JumpFloorII_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursionAndLoop/JumpFloorII_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecursionAndLoop/JumpFloor_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursionAndLoop/JumpFloor_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecursionAndLoop/RectCover_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursionAndLoop/RectCover_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bitOperate/NumberOf1_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bitOperate/NumberOf1_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeIntegrity/Power_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeIntegrity/Power_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/findAndSort/minNumberInRotateArray_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findAndSort/minNumberInRotateArray_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursionAndLoop/JumpFloorII_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursionAndLoop/JumpFloorII_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stackAndqueue/TwoStackImplQueues_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stackAndqueue/TwoStackImplQueues_05.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,88 +36,100 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TwoStackImplQueues_05.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stackAndqueue/TwoStackImplQueues_05.java">
+      <file leaf-file-name="SelectionSort_02.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classicalSort/SelectionSort_02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+            <state relative-caret-position="405">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReConstructBinaryTree_04.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tree/ReConstructBinaryTree_04.java">
+      <file leaf-file-name="InsertionSort_03.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classicalSort/InsertionSort_03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1917">
-              <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+            <state relative-caret-position="540">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShellSort_04.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classicalSort/ShellSort_04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeSort_05.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classicalSort/MergeSort_05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1431">
+              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort1_06.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classicalSort/QuickSort1_06.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort2_06.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classicalSort/QuickSort2_06.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeapSort_07.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classicalSort/HeapSort_07.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountingSort_08.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classicalSort/CountingSort_08.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BucketSort_09.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classicalSort/BucketSort_09.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1018">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
               <folding>
-                <element signature="method#preOrder#0;class#ReConstructBinaryTree_04#0" />
-                <element signature="method#inOrder#0;class#ReConstructBinaryTree_04#0" />
-                <element signature="method#postOrder#0;class#ReConstructBinaryTree_04#0" />
+                <element signature="e#1312#1313#0" expanded="true" />
+                <element signature="e#1368#1369#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fibonacci_07.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/recursionAndLoop/Fibonacci_07.java">
+      <file leaf-file-name="RadixSort_10.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/classicalSort/RadixSort_10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1512">
-              <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JumpFloor_08.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/recursionAndLoop/JumpFloor_08.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="891">
-              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JumpFloorII_09.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/recursionAndLoop/JumpFloorII_09.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RectCover_10.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/recursionAndLoop/RectCover_10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberOf1_11.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bitOperate/NumberOf1_11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Power_12.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/codeIntegrity/Power_12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="minNumberInRotateArray_06.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/findAndSort/minNumberInRotateArray_06.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="27">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <folding>
+                <element signature="e#1706#1707#0" expanded="true" />
+                <element signature="e#1765#1766#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,12 +159,9 @@
         <option value="$PROJECT_DIR$/src/string/Test_02.java" />
         <option value="$PROJECT_DIR$/src/string/ReplaceSpace_02.java" />
         <option value="$PROJECT_DIR$/src/linkedList/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/printListFromTailToHead_03.java" />
         <option value="$PROJECT_DIR$/src/tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/tree/ReConstructBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/array/TwoArrayFind_01.java" />
         <option value="$PROJECT_DIR$/src/stackAndqueue/TwoStackImplQueues.java" />
-        <option value="$PROJECT_DIR$/src/stackAndqueue/TwoStackImplQueues_05.java" />
         <option value="$PROJECT_DIR$/src/FindAndSort/minNumberInRotateArray.java" />
         <option value="$PROJECT_DIR$/src/FindAndSort/minNumberInRotateArray_06.java" />
         <option value="$PROJECT_DIR$/src/tree/ReConstructBinaryTree_04.java" />
@@ -151,8 +170,29 @@
         <option value="$PROJECT_DIR$/src/RecursionAndLoop/JumpFloor_08.java" />
         <option value="$PROJECT_DIR$/src/RecursionAndLoop/RectCover_10.java" />
         <option value="$PROJECT_DIR$/src/BitOperate/NumberOf1_11.java" />
+        <option value="$PROJECT_DIR$/src/array/TwoArrayFind_01.java" />
+        <option value="$PROJECT_DIR$/src/linkedList/printListFromTailToHead_03.java" />
+        <option value="$PROJECT_DIR$/src/stackAndqueue/TwoStackImplQueues_05.java" />
+        <option value="$PROJECT_DIR$/src/findAndSort/minNumberInRotateArray_06.java" />
+        <option value="$PROJECT_DIR$/src/recursionAndLoop/JumpFloorII_09.java" />
         <option value="$PROJECT_DIR$/src/bitOperate/NumberOf1_11.java" />
         <option value="$PROJECT_DIR$/src/codeIntegrity/Power_12.java" />
+        <option value="$PROJECT_DIR$/src/array/ReOrderArray_013.java" />
+        <option value="$PROJECT_DIR$/src/array/ReOrderArray_13.java" />
+        <option value="$PROJECT_DIR$/src/classicalSort/01_BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/classicalSort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/classicalSort/SelectionSort_02.java" />
+        <option value="$PROJECT_DIR$/src/classicalSort/InsertionSort_3.java" />
+        <option value="$PROJECT_DIR$/src/classicalSort/InsertionSort_03.java" />
+        <option value="$PROJECT_DIR$/src/classicalSort/ShellSort_04.java" />
+        <option value="$PROJECT_DIR$/src/classicalSort/MergeSort_05.java" />
+        <option value="$PROJECT_DIR$/src/classicalSort/QuickSort_05.java" />
+        <option value="$PROJECT_DIR$/src/classicalSort/QuickSort_06.java" />
+        <option value="$PROJECT_DIR$/src/classicalSort/QuickSort2_06.java" />
+        <option value="$PROJECT_DIR$/src/classicalSort/HeapSort_07.java" />
+        <option value="$PROJECT_DIR$/src/classicalSort/CountingSort_08.java" />
+        <option value="$PROJECT_DIR$/src/classicalSort/BucketSort_09.java" />
+        <option value="$PROJECT_DIR$/src/classicalSort/RadixSort_10.java" />
       </list>
     </option>
   </component>
@@ -177,6 +217,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,13 +234,12 @@
               <item name="offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codeIntegrity" type="462c0819:PsiDirectoryNode" />
+              <item name="classicalSort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -207,10 +247,15 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../study/community" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="classicalSort" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -224,58 +269,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberOf1_11">
-    <configuration name="Fibonacci_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursionAndLoop.Fibonacci_07" />
+  <component name="RunManager" selected="Application.BucketSort_09">
+    <configuration name="BucketSort_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classicalSort.BucketSort_09" />
       <module name="offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursionAndLoop.*" />
+          <option name="PATTERN" value="classicalSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="NumberOf1_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bitOperate.NumberOf1_11" />
+    <configuration name="CountingSort_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classicalSort.CountingSort_08" />
       <module name="offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bitOperate.*" />
+          <option name="PATTERN" value="classicalSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ReConstructBinaryTree_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.ReConstructBinaryTree_04" />
+    <configuration name="HeapSort_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classicalSort.HeapSort_07" />
       <module name="offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tree.*" />
+          <option name="PATTERN" value="classicalSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Test_01" />
+    <configuration name="QuickSort2_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classicalSort.QuickSort2_06" />
       <module name="offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="classicalSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TwoStackImplQueues_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stackAndqueue.TwoStackImplQueues_05" />
+    <configuration name="QuickSort_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classicalSort.QuickSort_06" />
       <module name="offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stackAndqueue.*" />
+          <option name="PATTERN" value="classicalSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,19 +367,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Test_01" />
-      <item itemvalue="Application.ReConstructBinaryTree_04" />
-      <item itemvalue="Application.TwoStackImplQueues_05" />
-      <item itemvalue="Application.Fibonacci_07" />
-      <item itemvalue="Application.NumberOf1_11" />
+      <item itemvalue="Application.QuickSort_06" />
+      <item itemvalue="Application.QuickSort2_06" />
+      <item itemvalue="Application.HeapSort_07" />
+      <item itemvalue="Application.CountingSort_08" />
+      <item itemvalue="Application.BucketSort_09" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberOf1_11" />
-        <item itemvalue="Application.Fibonacci_07" />
-        <item itemvalue="Application.TwoStackImplQueues_05" />
-        <item itemvalue="Application.ReConstructBinaryTree_04" />
-        <item itemvalue="Application.Test_01" />
+        <item itemvalue="Application.BucketSort_09" />
+        <item itemvalue="Application.CountingSort_08" />
+        <item itemvalue="Application.HeapSort_07" />
+        <item itemvalue="Application.QuickSort2_06" />
+        <item itemvalue="Application.QuickSort_06" />
       </list>
     </recent_temporary>
   </component>
@@ -391,6 +436,19 @@
       <workItem from="1586082689900" duration="598000" />
       <workItem from="1586095835269" duration="1291000" />
       <workItem from="1586144621527" duration="2021000" />
+      <workItem from="1590395347561" duration="1577000" />
+      <workItem from="1591787970637" duration="5011000" />
+      <workItem from="1591961315370" duration="5600000" />
+      <workItem from="1591968436561" duration="700000" />
+      <workItem from="1592011482200" duration="2522000" />
+      <workItem from="1592034375431" duration="3315000" />
+      <workItem from="1592109432592" duration="1423000" />
+      <workItem from="1592140512704" duration="2343000" />
+      <workItem from="1592186796357" duration="8116000" />
+      <workItem from="1592271750815" duration="15462000" />
+      <workItem from="1592357949332" duration="3158000" />
+      <workItem from="1592447444942" duration="3082000" />
+      <workItem from="1592740588415" duration="462000" />
     </task>
     <task id="LOCAL-00001" summary="从尾到头打印链表">
       <created>1568080102686</created>
@@ -424,7 +482,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142729000" />
+    <option name="totallyTimeSpent" value="195500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -432,6 +490,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -439,22 +498,21 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.43422914" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23338048" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28288543" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23190348" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2546917" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34229138" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1301273" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3294271" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -462,34 +520,34 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23338048" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28288543" />
       <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2124665" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.43424657" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34229138" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3479491" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.43422914" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3294271" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3297587" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,115 +565,59 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="54" />
+      <option name="time" value="97" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>n &amp; flag</expression-string>
+        <expression-string>array[i]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>n&amp;flag</expression-string>
+        <expression-string>array[i] - min</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>array[i] - min]++</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>array[i] - min + 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>temp</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>array</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>array[left]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>array[right]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/string/Test_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/ReplaceSpace_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2241">
-          <caret line="83" column="20" lean-forward="true" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/TwoArrayFind_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
-          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/ReplaceSpace_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1701">
-          <caret line="63" column="53" lean-forward="true" selection-start-line="63" selection-start-column="53" selection-end-line="63" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/TwoArrayFind_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
-          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/ReplaceSpace_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1917">
-          <caret line="71" column="8" lean-forward="true" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/TwoArrayFind_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
-          <caret line="75" column="19" lean-forward="true" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/ReplaceSpace_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/TwoArrayFind_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2214">
-          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Test_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/Test_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/ReplaceSpace_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/TwoArrayFind_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
-          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/string/ReplaceSpace_02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -718,10 +720,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/ReplaceSpace_02.java">
+    <entry file="file://$PROJECT_DIR$/src/string/Test_02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+        <state relative-caret-position="135">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -732,106 +734,200 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/Test_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/TwoArrayFind_01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        <state relative-caret-position="1809">
+          <caret line="67" column="31" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/TreeNode_04.java">
+    <entry file="file://$PROJECT_DIR$/src/string/ReplaceSpace_02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="1566">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedList/ListNode_03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="189">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedList/printListFromTailToHead_03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        <state relative-caret-position="756">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/stackAndqueue/TwoStackImplQueues_05.java">
+    <entry file="file://$PROJECT_DIR$/src/tree/TreeNode_04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        <state relative-caret-position="108">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/ReConstructBinaryTree_04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1917">
-          <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
-          <folding>
-            <element signature="method#preOrder#0;class#ReConstructBinaryTree_04#0" />
-            <element signature="method#inOrder#0;class#ReConstructBinaryTree_04#0" />
-            <element signature="method#postOrder#0;class#ReConstructBinaryTree_04#0" />
-          </folding>
+        <state relative-caret-position="2025">
+          <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stackAndqueue/TwoStackImplQueues_05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/findAndSort/minNumberInRotateArray_06.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/recursionAndLoop/JumpFloor_08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        <state relative-caret-position="810">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/recursionAndLoop/Fibonacci_07.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        <state relative-caret-position="1269">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/recursionAndLoop/JumpFloorII_09.java">
+    <entry file="file://$PROJECT_DIR$/src/recursionAndLoop/JumpFloor_08.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="1080">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/recursionAndLoop/RectCover_10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="297">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/developer/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="2419" column="7" lean-forward="true" selection-start-line="2419" selection-start-column="7" selection-end-line="2419" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bitOperate/NumberOf1_11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        <state relative-caret-position="1296">
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/ReOrderArray_13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codeIntegrity/Power_12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="243">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recursionAndLoop/JumpFloorII_09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classicalSort/BubbleSort_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classicalSort/SelectionSort_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classicalSort/InsertionSort_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classicalSort/ShellSort_04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classicalSort/MergeSort_05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classicalSort/QuickSort1_06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classicalSort/QuickSort2_06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classicalSort/HeapSort_07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classicalSort/CountingSort_08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classicalSort/BucketSort_09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1018">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#1312#1313#0" expanded="true" />
+            <element signature="e#1368#1369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classicalSort/RadixSort_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding>
+            <element signature="e#1706#1707#0" expanded="true" />
+            <element signature="e#1765#1766#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

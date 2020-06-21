@@ -39,4 +39,11 @@ public class minNumberInRotateArray_06 {
         }
         return array[mid];
     }
+
+    public static void main(String[] args) {
+        minNumberInRotateArray_06 number = new minNumberInRotateArray_06();
+        int [] array = {3,4,5,1,2};
+        int aaa = number.minNumberInRotateArray1(array);
+        System.out.println(aaa);
+    }
 }

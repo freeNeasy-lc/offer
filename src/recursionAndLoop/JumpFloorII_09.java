@@ -25,4 +25,10 @@ public class JumpFloorII_09 {
         }
         return sum;
     }
+
+    public static void main(String[] args) {
+        JumpFloorII_09 jf = new JumpFloorII_09();
+        int result = jf.JumpFloorII(4);
+        System.out.println(result);
+    }
 }

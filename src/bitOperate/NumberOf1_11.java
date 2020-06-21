@@ -48,7 +48,7 @@ public class NumberOf1_11 {
 
     public static void main(String[] args) {
         NumberOf1_11 number = new NumberOf1_11();
-        int num = number.NumberOf2(100);
+        int num = number.NumberOf1(100);
         System.out.println(num);
     }
 }
