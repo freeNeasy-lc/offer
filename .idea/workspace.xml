@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10655a34-a495-4a30-bbae-d4e6799b4a34" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/Duplicate_50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/printMatrix_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/Clone_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/FindKthToTail_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/ListNode_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/ListNode_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/ListNode_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/Merge_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/RandomListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/ReverseList_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stackAndqueue/IsPopOrder_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stackAndqueue/Stack_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/Permutation_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Convert_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/FindPath_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/HasSubtree_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Mirror_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/PrintFromTopToBottom_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/TreeNode_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/TreeNode_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/TreeNode_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/TreeNode_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/TreeNode_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/VerifySquenceOfBST_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/Test_65.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/ReOrderArray_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ReOrderArray_13.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,20 +38,29 @@
       <file leaf-file-name="Convert_26.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tree/Convert_26.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+            <state relative-caret-position="810">
+              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Permutation_27.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Permutation_27.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/Permutation_27.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            <state relative-caret-position="27">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test_65.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/offer/Test_65.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -161,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/RecursionAndLoop/Fibonacci_07.java" />
         <option value="$PROJECT_DIR$/src/RecursionAndLoop/JumpFloor_08.java" />
         <option value="$PROJECT_DIR$/src/RecursionAndLoop/RectCover_10.java" />
         <option value="$PROJECT_DIR$/src/BitOperate/NumberOf1_11.java" />
@@ -212,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/tree/TreeNode_26.java" />
         <option value="$PROJECT_DIR$/src/tree/Convert_26.java" />
         <option value="$PROJECT_DIR$/src/string/Permutation_27.java" />
+        <option value="$PROJECT_DIR$/src/offer/Test_65.java" />
       </list>
     </option>
   </component>
@@ -236,9 +221,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,13 +240,7 @@
               <item name="offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -296,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Convert_26">
+  <component name="RunManager" selected="Application.Test_65">
     <configuration name="Clone_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedList.Clone_25" />
       <module name="offer" />
@@ -330,13 +309,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PrintFromTopToBottom_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.PrintFromTopToBottom_22" />
+    <configuration name="Test_65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.Test_65" />
       <module name="offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tree.*" />
+          <option name="PATTERN" value="offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -394,19 +373,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PrintFromTopToBottom_22" />
       <item itemvalue="Application.VerifySquenceOfBST_23" />
       <item itemvalue="Application.FindPath_24" />
       <item itemvalue="Application.Clone_25" />
       <item itemvalue="Application.Convert_26" />
+      <item itemvalue="Application.Test_65" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test_65" />
         <item itemvalue="Application.Convert_26" />
         <item itemvalue="Application.Clone_25" />
         <item itemvalue="Application.FindPath_24" />
         <item itemvalue="Application.VerifySquenceOfBST_23" />
-        <item itemvalue="Application.PrintFromTopToBottom_22" />
       </list>
     </recent_temporary>
   </component>
@@ -489,7 +468,9 @@
       <workItem from="1593570911395" duration="2549000" />
       <workItem from="1593691915134" duration="1215000" />
       <workItem from="1593999790850" duration="7337000" />
-      <workItem from="1594126447847" duration="96000" />
+      <workItem from="1594126447847" duration="745000" />
+      <workItem from="1594193036065" duration="1242000" />
+      <workItem from="1594261493656" duration="1051000" />
     </task>
     <task id="LOCAL-00001" summary="从尾到头打印链表">
       <created>1568080102686</created>
@@ -526,11 +507,18 @@
       <option name="project" value="LOCAL" />
       <updated>1592741310670</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="保存7.7">
+      <created>1594126597865</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594126597865</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="252679000" />
+    <option name="totallyTimeSpent" value="255621000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -543,10 +531,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -555,10 +543,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.43422914" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31683168" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.09052334" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.09039548" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20375335" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20911528" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -566,45 +554,44 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3026874" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32908848" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32908848" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31683168" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20107238" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.43422914" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.43847242" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32908848" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.43847242" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.43422914" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32908848" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20107238" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -619,11 +606,12 @@
     <MESSAGE value="coding5~8" />
     <MESSAGE value="coding9~10" />
     <MESSAGE value="经典排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="经典排序" />
+    <MESSAGE value="保存7.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="保存7.7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="145" />
+      <option name="time" value="147" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -676,13 +664,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/stackAndqueue/TwoStackImplQueues_05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/findAndSort/minNumberInRotateArray_06.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -974,13 +955,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/TreeNode_04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/TreeNode_17.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -992,13 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/TreeNode_26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1016,13 +983,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/Convert_26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/developer/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
@@ -1030,13 +990,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/Convert_26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/TreeNode_26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/TreeNode_04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/string/Permutation_27.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        <state relative-caret-position="27">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/Test_65.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
